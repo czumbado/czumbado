@@ -5,8 +5,6 @@
 
 
 
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
