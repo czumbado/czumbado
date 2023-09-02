@@ -8,12 +8,9 @@
 ## About me 👀
 ## - I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+29k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+
+- 📲 Web developer
+
 <br>
 
 ## Proyectos *bombitas*
