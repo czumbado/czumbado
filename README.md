@@ -16,7 +16,7 @@
 <p>
  </br>
  
- 🤝🏻 Connect with Me
+ Connect with me ✅
 
   <p align="left">
       <a href="mailto:carloszumbadocardenas@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-carloszumbadocardenas@gmail.com-red?style=flat&logo=gmail">   </a>
@@ -35,8 +35,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/czumbado">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=czumbado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
