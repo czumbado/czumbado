@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.instagram.com/snowloos/">Carlos</a> 👋</h1>
 </div>
-<img src="https://st3.depositphotos.com/10325396/37656/i/450/depositphotos_376563686-stock-photo-illustration-banner-server-room-data.jpg">
+<img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
