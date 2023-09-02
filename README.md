@@ -6,7 +6,7 @@
 
 
 ## About me 👀
-## - I am full-stack developer passionate about finding solutions to problems and make awesome designs. Skilled at writing well-designed, testable and efficient code using current best practices. Fast learner, hard worker and team player..
+## - I am a passionate full-stack developer with a focus on solving problems and creating innovative designs. My skill lies in the creation of efficient and highly testable code, following the most current practices. I have a quick learn mentality, I am tireless in my work and a valuable collaborator in any team.
 
 
 - 📲 Web developer
