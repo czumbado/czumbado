@@ -73,8 +73,10 @@
 
 ## 🎵 Now Playing
 
-<!-- Spotify Playlist Embed -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWQRwui0ExPn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://upload.wikimedia.org/wikipedia/commons/6/6c/Spotify_logo_2015.svg)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78)
+
+[Listen to my playlist on Spotify](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78)
+
 
 
 ---
