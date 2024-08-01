@@ -1,7 +1,10 @@
-<div align="center">
-  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/carloszumbadocardenas/">Carlos</a> 👋</h1>
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width: 100%; height: auto; max-height: 150px; object-fit: cover;">
-</div>
+## 🎵 Now Playing
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78" target="_blank">
+  <img src="https://media.giphy.com/media/EFGXDUBXcUd131C0CR/giphy.gif" alt="Spotify" style="width: 20%; max-width: auto; height: auto; float: right; margin-left: 20px;">
+</a>
+<p>Click the icon to listen</p>
+
 
 
 
