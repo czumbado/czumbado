@@ -78,9 +78,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg" style="width: 80%; height: auto;">
-</p>
+
 
 <p align="center">
 
@@ -90,7 +88,7 @@
 
  
   
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 500px; height: auto;">
 
  
 </p>
