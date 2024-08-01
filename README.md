@@ -66,7 +66,7 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.czumbado.vercel.app/api/spotify)](https://open.spotify.com/user/czumbado)
+[![Spotify]([https://novatorem.czumbado.vercel.app/api/spotify)](https://open.spotify.com/user/czumbado](https://open.spotify.com/user/12171354433))
 
 ---
 
