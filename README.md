@@ -92,6 +92,7 @@
 
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" style="width: 200px; height: auto;">
+  <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" style="width: 200px; height: auto;">
