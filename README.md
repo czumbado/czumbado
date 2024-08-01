@@ -73,9 +73,13 @@
 
 ## 🎵 Now Playing
 
+## 🎵 Now Playing
+
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Spotify_logo_2015.svg" alt="Spotify" style="width: 32px; height: 32px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_with_text.svg" alt="Spotify" style="width: 32px; height: 32px;">
+  Listen to my playlist on Spotify
 </a>
+
 
 
 
