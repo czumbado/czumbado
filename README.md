@@ -73,7 +73,9 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://novatorem.czumbado.vercel.app/api/spotify)](https://open.spotify.com/user/12171354433)
+<!-- Spotify Playlist Embed -->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWQRwui0ExPn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 ---
 
