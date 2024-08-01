@@ -96,6 +96,5 @@
  
   <img src="https://media.giphy.com/media/Ae7sI4oWcH1UI/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" style="width: 200px; height: auto;">
+ 
 </p>
