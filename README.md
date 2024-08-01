@@ -86,7 +86,8 @@
   <img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg" style="width: 80%; height: auto;">
 </p>
 
----
-
-```text
-Web Developer | Software Developer | SQL
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width: 200px; height: auto;">
+</p>
