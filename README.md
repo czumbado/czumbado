@@ -90,9 +90,3 @@
 
 ```text
 Web Developer | Software Developer | SQL
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width: 200px; height: auto;">
-</p>
-```
