@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/carloszumbadocardenas/">Carlos</a> 👋</h1>
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width: 100%; height: auto; max-height: auto; object-fit: cover;">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width: 200%; height: auto; max-height: auto; object-fit: cover;">
 </div>
 
 
