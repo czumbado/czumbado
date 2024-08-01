@@ -87,9 +87,9 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width: 200px; height: auto;">
  
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" style="width: 200px; height: auto;">
+
   <img src="https://media.giphy.com/media/3o7TKrUlT5d12M2dRK/giphy.gif" style="width: 200px; height: auto;">
-  <img src="https://media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" style="width: 200px; height: auto;">
+
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" style="width: 200px; height: auto;">
