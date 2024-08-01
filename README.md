@@ -79,7 +79,7 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78" target="_blank">
     <img src="https://media.giphy.com/media/EFGXDUBXcUd131C0CR/giphy.gif" alt="Spotify" style="width: 20%; max-width: auto; height: auto;">
   </a>
-  <p>Click the icon to listen</p>
+  <p>Click to listen</p>
 </div>
 
 
