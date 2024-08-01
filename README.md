@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
-
-
-
-
-
-
 ---
 
 ## About Me 👀
@@ -52,13 +46,10 @@
 
 ## 🚀 My Projects
 
-- [Proyecto Carnesdon Adrian](https://github.com/navarromaria/ProyectoCarnesdonAdrian.git) - Description of project related to Carnesdon Adrian.
-- [Project 1](https://github.com/czumbado/project1) - Description of project 1.
-- [Project 2](https://github.com/czumbado/project2) - Description of project 2.
-- [Project 3](https://github.com/czumbado/project3) - Description of project 3.
+- [Project 1](https://github.com/navarromaria/ProyectoCarnesdonAdrian.git) - A web application for managing a butcher shop, featuring a Web, API and connected to a domain on Azure.
+- [Project 2](https://github.com/czumbado/CarniceriaPM.git) - A butcher shop application developed in FlutterFlow with Firebase integration.
 
 ---
-
 
 ## 📧 Contact Me
 
@@ -84,21 +75,12 @@
   <p>Click to listen</p>
 </div>
 
-
-
-
-
-
-
-
 ---
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=czumbado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-
 
 <p align="center">
   
