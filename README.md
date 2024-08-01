@@ -30,7 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -55,7 +54,7 @@
 
 ## 📧 Contact Me
 
-<p>
+<p align="center">
   Connect with me:
   <br/>
   <a href="mailto:carloszumbadocardenas@gmail.com" target="_blank">
@@ -83,8 +82,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg" style="width: 80%; height: auto;">
 </p>
@@ -92,5 +89,10 @@
 ---
 
 ```text
-
 Web Developer | Software Developer | SQL
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width: 200px; height: auto;">
+</p>
+```
