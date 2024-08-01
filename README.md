@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/carloszumbadocardenas/">Carlos</a> 👋</h1>
-  <img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg" style="width: 100%; height: auto;">
+   <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1)" style="width: 250px; height: auto;">
+  
 </div>
 
 ---
