@@ -74,10 +74,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=czumbado.czumbado" alt="Visitors">
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=czumbado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </p>
@@ -90,4 +86,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="width: 200px; height: auto;">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width: 200px; height: auto;">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" style="width: 200px; height: auto;">
 </p>
