@@ -79,14 +79,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=czumbado&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
-  <h1>Welcome! I'm <a href="https://www.linkedin.com/in/carloszumbadocardenas/">Carlos</a> 👋</h1>
-</div>
 
-<p align="center">
-  <img src="https://st4.depositphotos.com/10325396/40430/i/450/depositphotos_404300226-stock-photo-illustration-banner-server-room-data.jpg" style="width: 80%; height: auto;">
-</p>
 
 ---
 
