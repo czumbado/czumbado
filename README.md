@@ -73,9 +73,9 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://upload.wikimedia.org/wikipedia/commons/5/54/Spotify_Logo_White.png)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78)
-
-[Listen to my playlist on Spotify](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78)
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Spotify_logo_2015.svg" alt="Spotify" style="width: 32px; height: 32px;">
+</a>
 
 
 
