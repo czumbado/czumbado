@@ -1,9 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/carloszumbadocardenas/">Carlos</a> 👋</h1>
-  <img src="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1" style="width: 250px; height: auto;">
-
-  
-  
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width: 250px; height: auto;">
 </div>
 
 ---
