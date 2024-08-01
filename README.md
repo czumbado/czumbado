@@ -74,10 +74,9 @@
 ## 🎵 Now Playing
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=10729e79e1564b78" target="_blank">
-  <iframe src="https://giphy.com/embed/EFGXDUBXcUd131C0CR" width="100%" height="auto" style="border:none; max-width: 100%; height: auto;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/music-logo-spotify-EFGXDUBXcUd131C0CR">via GIPHY</a></p>
-  Listen to my playlist on Spotify
+  <img src="https://media.giphy.com/media/EFGXDUBXcUd131C0CR/giphy.gif" alt="Spotify" style="width: 100%; max-width: 250px; height: auto;">
 </a>
+
 
 
 
