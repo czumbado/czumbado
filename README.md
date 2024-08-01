@@ -88,7 +88,7 @@
 
  
   
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 400px; height: 300px;">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 400px; height: auto;">
 
  
 </p>
