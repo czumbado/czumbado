@@ -16,11 +16,11 @@
 
 <br>
 
-## 馃挮 About Me
+## 馃挱 About Me
 
 ```yaml
 carlos_zumbado:
-  location: "Costa Rica 馃嚚馃嚪"
+  location: "Costa Rica"
   role: "Software Engineer"
   focus: "Enterprise financial systems"
   ecosystem: "Microsoft (.NET / Azure / SQL Server)"
@@ -28,17 +28,17 @@ carlos_zumbado:
   currently: "Leveling up backend, cloud & software architecture skills"
 ```
 
-- 馃敪 Currently building and maintaining **enterprise financial systems**
-- 馃敼 Backend Development 路 REST APIs 路 ASP.NET Core
-- 馃敼 Cloud Architecture on **Microsoft Azure**
-- 馃敼 Data modeling & optimization with **SQL Server**
-- 馃敼 Cross-platform mobile apps with **Flutter**
-- 馃摎 Deepening knowledge in **Software Architecture & Design Patterns**
-- 馃挰 Ask me about .NET, REST APIs, or Azure deployments
+- Currently building and maintaining **enterprise financial systems**
+- Backend Development 路 REST APIs 路 ASP.NET Core
+- Cloud Architecture on **Microsoft Azure**
+- Data modeling & optimization with **SQL Server**
+- Cross-platform mobile apps with **Flutter**
+- Deepening knowledge in **Software Architecture & Design Patterns**
+- Ask me about .NET, REST APIs, or Azure deployments
 
 <br>
 
-## 馃殌 Tech Stack
+##  Tech Stack
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
@@ -104,7 +104,7 @@ carlos_zumbado:
 
 <br>
 
-## 馃搳 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=czumbado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -125,39 +125,39 @@ carlos_zumbado:
 
 <br>
 
-## 馃殌 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 馃ォ Carnes Don Adri谩n
+###  Carnes Don Adrián
 Enterprise e-commerce web app for a local butcher shop.
 
-**Stack:** ASP.NET Core MVC 路 REST API 路 SQL Server 路 Azure
+**Stack:** ASP.NET Core MVC  REST API  SQL Server  Azure
 
 **Highlights:**
-- 馃攼 Authentication & role-based access
-- 馃洅 Shopping cart & checkout flow
-- 馃彿锔?Promotions engine
-- 馃摝 Inventory management
-- 鈽侊笍 Deployed on Azure
+- Authentication & role-based access
+- Shopping cart & checkout flow
+- Promotions engine
+- Inventory management
+- Deployed on Azure
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navarromaria/ProyectoCarnesdonAdrian)
 
 </td>
 <td width="50%" valign="top">
 
-### 馃摫 Carnicer铆a PM
+###  Carnicería PM
 Cross-platform mobile app for meat shop order management.
 
-**Stack:** FlutterFlow 路 Firebase 路 Firestore
+**Stack:** FlutterFlow Firebase Firestore
 
 **Highlights:**
-- 馃攼 Firebase authentication
-- 馃洅 Shopping cart experience
-- 馃摬 Real-time data with Firestore
-- 鈿?Rapid UI iteration with FlutterFlow
+- Firebase authentication
+- Shopping cart experience
+- Real-time data with Firestore
+- Rapid UI iteration with FlutterFlow
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/czumbado/CarniceriaPM)
 
@@ -167,7 +167,7 @@ Cross-platform mobile app for meat shop order management.
 
 <br>
 
-## 馃尡 Currently Learning & Exploring
+## Currently Learning & Exploring
 
 <p align="left">
 <img src="https://img.shields.io/badge/Azure_Architecture-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
@@ -192,7 +192,7 @@ Cross-platform mobile app for meat shop order management.
 
 <br>
 
-## 馃摣 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:carloszumbadocardenas@gmail.com">
@@ -209,7 +209,7 @@ Cross-platform mobile app for meat shop order management.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=100&section=footer"/>
 
 <div align="center">
-  <i>猸?Thanks for stopping by 鈥?always open to interesting projects and collaborations!</i>
+  <i> Thanks for stopping by always open to interesting projects and collaborations!</i>
 </div>
 
 </div>
