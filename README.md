@@ -128,15 +128,11 @@ Contributing to the **SINPE TP** project for the [Banco Central de Costa Rica](h
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=czumbado&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=czumbado&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=czumbado&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=czumbado&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 <br>
