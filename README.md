@@ -127,10 +127,6 @@ Contributing to the **SINPE TP** project for the [Banco Central de Costa Rica](h
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czumbado&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=czumbado&theme=tokyo-night&hide_border=true"/>
-</p>
-
 <br>
 
 ## Personal Projects
