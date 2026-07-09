@@ -194,7 +194,6 @@ Cross-platform mobile app for meat shop order management.
 | **Current Project** | SINPE TP · Banco Central de Costa Rica |
 | **Domain** | Critical financial systems in production |
 | **Core Stack** | SQL Server / APIs / Azure / C# / .NET |
-| **2026 Goal** | Master cloud-native architecture & microservices |
 
 <br>
 
