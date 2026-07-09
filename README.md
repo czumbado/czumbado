@@ -11,7 +11,7 @@ San José, Costa Rica
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Zumbado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloszumbadocardenas/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloszumbadocardenas@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=carloszumbadocardenas@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=czumbado&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS)](https://github.com/czumbado)
 
 </div>
@@ -200,7 +200,7 @@ Cross-platform mobile app for meat shop order management.
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:carloszumbadocardenas@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carloszumbadocardenas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/carloszumbadocardenas/">
