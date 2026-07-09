@@ -35,11 +35,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=czumbado&show_icons=true&theme=radical" alt="Carlos' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=czumbado&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=czumbado&theme=radical" alt="Carlos' GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=czumbado&theme=radical" />
 </p>
 
 ---
