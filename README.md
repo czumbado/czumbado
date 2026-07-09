@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:512BD4&height=220&section=header&text=Carlos%20Zumbado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%26%20Cloud%20Developer&descAlignY=58&descSize=20"/>
+# Carlos Zumbado
 
-<br>
+### Software Engineer | .NET & Cloud Developer
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=600&lines=Building+scalable+.NET+%26+cloud+solutions;ASP.NET+Core+%7C+Azure+%7C+SQL+Server;Turning+ideas+into+enterprise+software;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Zumbado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloszumbadocardenas/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloszumbadocardenas@gmail.com)
@@ -16,7 +16,7 @@
 
 <br>
 
-## 馃挱 About Me
+## About Me
 
 ```yaml
 carlos_zumbado:
@@ -29,7 +29,7 @@ carlos_zumbado:
 ```
 
 - Currently building and maintaining **enterprise financial systems**
-- Backend Development 路 REST APIs 路 ASP.NET Core
+- Backend Development · REST APIs · ASP.NET Core
 - Cloud Architecture on **Microsoft Azure**
 - Data modeling & optimization with **SQL Server**
 - Cross-platform mobile apps with **Flutter**
@@ -38,7 +38,7 @@ carlos_zumbado:
 
 <br>
 
-##  Tech Stack
+## Tech Stack
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
@@ -104,7 +104,7 @@ carlos_zumbado:
 
 <br>
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=czumbado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -125,16 +125,16 @@ carlos_zumbado:
 
 <br>
 
-##  Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  Carnes Don Adrián
+### Carnes Don Adrián
 Enterprise e-commerce web app for a local butcher shop.
 
-**Stack:** ASP.NET Core MVC  REST API  SQL Server  Azure
+**Stack:** ASP.NET Core MVC · REST API · SQL Server · Azure
 
 **Highlights:**
 - Authentication & role-based access
@@ -148,10 +148,10 @@ Enterprise e-commerce web app for a local butcher shop.
 </td>
 <td width="50%" valign="top">
 
-###  Carnicería PM
+### Carnicería PM
 Cross-platform mobile app for meat shop order management.
 
-**Stack:** FlutterFlow Firebase Firestore
+**Stack:** FlutterFlow · Firebase · Firestore
 
 **Highlights:**
 - Firebase authentication
@@ -180,15 +180,15 @@ Cross-platform mobile app for meat shop order management.
 
 <br>
 
-## 馃搱 Quick Facts
+## Quick Facts
 
 | | |
 |---|---|
-| 馃彚 **Domain** | Enterprise financial software |
-| 鈿欙笍 **Core Stack** | .NET / ASP.NET Core / SQL Server |
-| 鈽侊笍 **Cloud** | Microsoft Azure |
-| 馃摫 **Mobile** | Flutter & FlutterFlow |
-| 馃幆 **2026 Goal** | Master cloud-native architecture & microservices |
+| **Domain** | Enterprise financial software |
+| **Core Stack** | .NET / ASP.NET Core / SQL Server |
+| **Cloud** | Microsoft Azure |
+| **Mobile** | Flutter & FlutterFlow |
+| **2026 Goal** | Master cloud-native architecture & microservices |
 
 <br>
 
@@ -206,10 +206,8 @@ Cross-platform mobile app for meat shop order management.
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=100&section=footer"/>
-
 <div align="center">
-  <i> Thanks for stopping by always open to interesting projects and collaborations!</i>
+  <sub>Thanks for stopping by, always open to interesting projects and collaborations.</sub>
 </div>
 
 </div>
